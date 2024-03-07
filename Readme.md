@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Vladimir Kalaganov](https://up.htmlacademy.ru/react/15/user/465875).
-* Наставник: `Неизвестно`.
+* Наставник: `Self`.
 
 ---
 
